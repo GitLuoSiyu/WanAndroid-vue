@@ -1,27 +1,11 @@
 # app
-
-> A Vue.js project
-
+ A Vue.js project
+ 
 ## Build Setup
-
 ``` bash
 # install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run all tests
-npm test
+  cnpm install/npm install/yarn add
+  cnpm run dev / yarn start
 ```
 ## 前言
     前段时间 跟随团队赶完 Weex 的项目后，对混合开发突然干西青区，然后就写了这个 WanAndroid 的vue版本，
