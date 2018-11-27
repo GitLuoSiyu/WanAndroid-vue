@@ -19,7 +19,17 @@
 ## 页面
     1.主页面导航: 首页(博文)、项目、公众号、体系、我的(个人中心)
     2.子页面：各个模块的详情页、登录、注册、系统设置、收藏页、左侧个人中心
-
+## PreViews
+    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/static/vueandroid1home.png) 
+    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/static/vueandroid1projects.png) 
+    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/static/vueandroid1wechat.png) 
+    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/static/vueandroid1tabs.png) 
+    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/static/vueandroid1mine.png) 
+    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/static/vueandroid1setting.png) 
+    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/static/vueandroid1collect.png) 
+    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/static/vueandroid1tabde.png) 
+  
+  
 ## 主要功能
     
     底部导航:博文、项目、公众号、体系、个人中心等
@@ -43,7 +53,7 @@
     Thanks to WanAndroid
     Thanks to Mint-ui Mui
 
-### 致谢
+## 致谢
     首先非常鸿洋大神提供的帮助,也非常感谢玩Android提供的API,
     本应用采用Vue+MUI,根据WanAndroid的JAVA客户端的样式,
     尽力去完善各项功能.当然这只是目前的功能,
