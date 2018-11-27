@@ -20,16 +20,9 @@
     1.主页面导航: 首页(博文)、项目、公众号、体系、我的(个人中心)
     2.子页面：各个模块的详情页、登录、注册、系统设置、收藏页、左侧个人中心
 ## PreViews
-    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/blob/master/static/vueandroid1collect.png) 
-    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/blob/master/static/vueandroid1projects.png) 
-    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/blob/master/static/vueandroid1wechat.png) 
-    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/blob/master/static/vueandroid1tabs.png) 
-    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/blob/master/static/vueandroid1mine.png) 
-    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/blob/master/static/vueandroid1setting.png) 
-    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/blob/master/static/vueandroid1collect.png) 
-    ![](https://github.com/GitLuoSiyu/WanAndroid-vue/blob/master/static/vueandroid1tabde.png) 
-  
-  
+    ![image](static/vueandroid1collect.png) | ![image](static/vueandroid1projects.png) | ![image](static/vueandroid1wechat.png) | ![image](static/vueandroid1tabs.png) 
+    ![image](static/vueandroid1mine.png) | ![image](static/vueandroid1setting.png)  | ![image](static/vueandroid1collect.png) | ![image](static/vueandroid1tabde.png) 
+    
 ## 主要功能
     
     底部导航:博文、项目、公众号、体系、个人中心等
